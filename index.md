@@ -97,7 +97,7 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
         <div class="card text-center">
           <div class="card-body">
             <h5 class="card-title">University of Kansas</h5>
-            <p>To attend the workshop on <strong>KU's Lawrence campus</strong>, <a href="https://ku.libwizard.com/f/2026-08-18-kansas-dc" target="_blank">register through KU Libraries' Data Carpentry Workshop registration form.</a></p>
+            <p>KU's registration for this workshop is full. <a href="https://ku.libwizard.com/f/2026-08-18-kansas-dc_waitlist" target="_blank">Join the waitlist</a> to be notified if a space becomes available.</p>
           </div>
         </div>
       </div>
